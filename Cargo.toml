@@ -1,0 +1,11 @@
+[package]
+name = "csv_miri_bug"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+csv = "1"
+derive_more = "0.99"
+eyre = "0.6"
